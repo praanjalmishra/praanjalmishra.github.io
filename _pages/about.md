@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me!!"
-excerpt: "About me"
+title: "About me !!"
+excerpt: "Pranjal Mishra"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 👋🏼 Hi! I’m a first year MSc student studying [Computational Science & Engineering](https://rw.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html). I am interested in solving 3D computer vision and geometry problems, especially large-scale visual mapping and localization, using Deep Learning. Towards this goal, I am interested in the topics of 3D Vision, Graphics, Reinforcement Learning, and Robotics. Apart from gaining theoretical understanding of these topics, I also enjoy applying them to real-world robotics tasks.
 
-Before starting my masters studies, I finished my undergraduate at [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/) in India. Just after my undergraduate, I worked at [Sterlite Technologies](https://stl.tech/) as a Technology Engineer for 2 years in Research & Development. I enjoy solving problems with perspectives from diverse fields and I am seeking a position where I am immersed in and contribute to cutting edge research.
+Before starting my masters studies, I finished my undergraduate at [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/) in India. Just after my undergraduate, I worked at [Sterlite Technologies](https://stl.tech/) as a Technology Engineer for 2 years in Research & Development. I enjoy solving problems with perspectives from diverse fields.
 
 # News
 
