@@ -4,8 +4,8 @@ main:
   - title: "CV"
     url: /files/cv.pdf
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
 
   # - title: "Portfolio"
@@ -18,11 +18,6 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-
-        
-
-    
-
     
   # - title: "Guide"
   #   url: /markdown/
