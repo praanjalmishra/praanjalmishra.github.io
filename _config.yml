@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Pranjal Mishra"
   avatar           : "pranjal.jpeg"
-  bio              : "MSc Student, ETH Zurich, Switzerland"
-  location         : "Zurich"
-  employer         : "ETH Zurich, Switzerland"
+  bio              : "MSc, ETH Zurich"
+  location         : "Zurich, Switzerland"
+  #employer         : "ETH Zurich, Switzerland"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ch/citations?user=-TTcrBoAAAAJ&hl=en&oi=sra"
   email            : "mailto:pranjalmishra291299@gmail.com"
