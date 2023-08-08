@@ -13,13 +13,10 @@ redirect_from:
 Before starting my masters studies, I finished my undergraduate at [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/) in India. Just after my undergraduate, I worked at [Sterlite Technologies](https://stl.tech/) as a Technology Engineer for 2 years in Research & Development. I enjoy solving problems with perspectives from diverse fields and I am seeking a position where I am immersed in and contribute to cutting edge research.
 
 # News
-======
 
-* **2023** -	Started my MSc at ETH Zurich!
-
+* **09/2023** -	Started my MSc at ETH Zurich!
 
 
-## 
 
 <!-- Getting started
 ======
