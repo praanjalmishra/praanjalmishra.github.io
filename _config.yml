@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Pranjal Mishra"
-  avatar           : "pranjal_pic.png"
+  avatar           : "pranjal.jpeg"
   bio              : "MSc Student, ETH Zurich, Switzerland"
   location         : "Zurich"
-  employer         :
+  employer         : "ETH Zurich, Switzerland"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ch/citations?user=-TTcrBoAAAAJ&hl=en&oi=sra"
-  email            :
+  email            : "mailto:pranjalmishra291299@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,8 +102,8 @@ author:
   instagram        : "praanjalmishra"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/pranjal-mishra-169365152/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "pranjal-mishra-169365152/"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
