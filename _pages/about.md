@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me !!"
+title: "About me"
 excerpt: "Pranjal Mishra"
 author_profile: true
 redirect_from: 
@@ -8,45 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-👋🏼 Hi! I’m a first year MSc student studying [Computational Science & Engineering](https://rw.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html). I am interested in solving 3D computer vision and geometry problems, especially large-scale visual mapping and localization, using Deep Learning. Towards this goal, I am interested in the topics of 3D Vision, Graphics, Reinforcement Learning, and Robotics. Apart from gaining theoretical understanding of these topics, I also enjoy applying them to real-world robotics tasks.
+👋🏼 Hi! I'm a robotics software engineer working on **3D perception and real-time autonomy** for physical vehicles and robots. I build and deploy multi-sensor pipelines (stereo, RGB-D, LiDAR) for pose estimation, 3D geometry, and sensor fusion under real-time constraints on embedded Linux (NVIDIA Jetson), using C++ and Python with ROS 2. My work spans camera/sensor calibration, perception-to-control integration, and taking systems from prototype to reliable operation on real hardware.
 
-Before starting my masters studies, I finished my undergraduate at [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/) in India. Just after my undergraduate, I worked at [Sterlite Technologies](https://stl.tech/) as a Technology Engineer for 2 years in Research & Development. I enjoy solving problems with perspectives from diverse fields.
+I completed my MSc in [Computational Science & Engineering](https://rw.ethz.ch/) (Robotics & Computer Vision) at [ETH Zürich](https://ethz.ch/en.html), where I also worked as a Research Assistant at the [SCAI Lab](https://scai.ethz.ch/) on assistive robotics and multi-view 3D reconstruction. Before that, I studied at [IIT Roorkee](https://www.iitr.ac.in/) and spent two years in R&D at [Sterlite Technologies](https://www.stl.tech/) building simulation models for industrial processes.
+
+**I'm currently open to robotics / perception engineering roles and available to start immediately.** Here's my [CV](/files/cv_pranjal_ETHz.pdf).
+
+Recent work: [ArtiTwinSplat](/publication/2026-06-01-artitwinsplat) (interactable digital twins with Gaussian Splatting, ICRA 2026 workshop) and [ROS 4 Healthcare](/publication/2026-01-01-ros4healthcare) (*Frontiers in Robotics and AI*). See all [projects](/portfolio/).
 
 # News
 
-* **09/2023** -	Started my MSc at ETH Zurich!
-
-
-
-<!-- Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+* **08/2026** - Finished my MSc at ETH Zürich and my Research Assistant role at SCAI Lab.
+* **06/2026** - Presented *ArtiTwinSplat* (lightning talk & poster) at the ICRA 2026 Digital Twins workshop in Vienna.
+* **2026** - *ROS 4 Healthcare* published in Frontiers in Robotics and AI.
+* **01/2026** - Started building a multi-camera 3D human pose & body model pipeline (SCAI Lab × AIT Lab).
+* **08/2024** - Joined the [SCAI Lab](https://scai.ethz.ch/) (D-HEST, ETH Zürich) as a Research Assistant.
+* **09/2023** - Started my MSc at ETH Zürich!

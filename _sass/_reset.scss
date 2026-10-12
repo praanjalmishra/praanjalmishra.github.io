@@ -114,6 +114,14 @@ img {
   -ms-interpolation-mode: bicubic;
 }
 
+/* Responsive videos, same as images */
+
+video {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
 /* Prevent max-width from affecting Google Maps */
 
 #map_canvas img,

@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Two earlier patents (2022–2023) and one materials-science publication (2021) from my engineering work at Sterlite Technologies and IIT Roorkee are available on request.

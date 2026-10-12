@@ -23,5 +23,11 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
 end
+
+# Standard libraries no longer bundled with Ruby 3.4+ (needed for local `jekyll serve`)
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+gem "webrick"

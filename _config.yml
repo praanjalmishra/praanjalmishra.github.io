@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pranjal's Homepage"
 title_separator          : "-"
 name                     : &name "Pranjal Mishra"
-description              : &description "personal description"
+description              : &description "Robotics software engineer working on 3D perception and real-time autonomy"
 url                      : https://praanjalmishra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "praanjalmishra/praanjalmishra.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Pranjal Mishra"
   avatar           : "pranjal.jpeg"
-  bio              : "MSc Student, ETH Zürich"
+  bio              : "Robotics Software Engineer · 3D Perception & Autonomy"
   location         : "Zürich, Switzerland"
   #employer         : "ETH Zurich, Switzerland"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.ch/citations?user=-TTcrBoAAAAJ&hl=en&oi=sra"
-  email            : "mailto:pranjalmishra291299@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=-TTcrBoAAAAJ"
+  email            : "mailto:pranjalmishra1751@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        : "praanjalmishra"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "pranjal-mishra-169365152/"
+  linkedin         : "pranjal1751"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
