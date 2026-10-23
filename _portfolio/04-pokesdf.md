@@ -4,7 +4,7 @@ excerpt: "Semester project: SDF-based 3D reconstruction that fuses vision, force
 collection: portfolio
 ---
 
-**Semester Project, SRL Lab, ETH Zürich** · Nov 2024 – Feb 2025
+**Semester Project, SRL Lab, ETH Zürich** 
 
 * Built an SDF-based 3D reconstruction pipeline that fuses vision, force, and end-effector pose to infer object deformation from poking interactions, without needing an object template.
 * Performed hand-eye calibration to register the camera frame to the robot's end-effector for accurate multi-modal fusion.

@@ -1,6 +1,6 @@
 ---
 title: "ArtiTwinSplat: Interactable Digital Twin Reconstruction from RGB-D Videos"
-excerpt: "Master's thesis: photorealistic, interactable digital twins of articulated scenes with 3D Gaussian Splatting. CVG Lab, ETH Zürich, 2025–2026.<br/><video src='/images/projects/artitwinsplat/teaser.mp4' poster='/images/projects/artitwinsplat/teaser.jpg' style='aspect-ratio: 960 / 720; width: 480px' autoplay loop muted playsinline preload='metadata'></video>"
+excerpt: "Master's thesis: photorealistic, interactable digital twins of articulated scenes with 3D Gaussian Splatting. CVG Lab x RSL Lab, ETH Zürich.<br/><video src='/images/projects/artitwinsplat/teaser.mp4' poster='/images/projects/artitwinsplat/teaser.jpg' style='aspect-ratio: 960 / 720; width: 480px' autoplay loop muted playsinline preload='metadata'></video>"
 collection: portfolio
 header:
   teaser: projects/artitwinsplat/teaser.jpg
@@ -8,8 +8,7 @@ header:
 
 **Master's Thesis, CVG Lab ETH Zürich** · [arXiv](https://arxiv.org/abs/2606.24628)
 
-## Tech stack
-3D Gaussian Splatting · Nerfstudio · PyTorch · RGB-D reconstruction · Camera localization
+
 
 <figure>
   <video src="/images/projects/artitwinsplat/teaser.mp4" poster="/images/projects/artitwinsplat/teaser.jpg" style="aspect-ratio: 960 / 720" autoplay loop muted playsinline aria-label="ArtiTwinSplat teaser: reconstructed digital twin of an articulated scene"></video>
@@ -33,7 +32,7 @@ Digital twins built with 3D Gaussian Splatting look photorealistic but are stati
 <figure>
   <video src="/images/projects/artitwinsplat/input.mp4" style="aspect-ratio: 1440 / 1080" autoplay loop muted playsinline aria-label="Input RGB-D capture"></video>
   <video src="/images/projects/artitwinsplat/result.mp4" style="aspect-ratio: 1920 / 2160" autoplay loop muted playsinline aria-label="Reconstructed articulated digital twin"></video>
-  <figcaption>Top: input RGB-D capture. Bottom: reconstructed twin with the articulated part moved.</figcaption>
+  <figcaption>Top: input RGB-D capture. Bottom: reconstructed twin with rendered RGB and Depth.</figcaption>
 </figure>
 
 <!-- TODO: add one or two headline numbers, e.g. PSNR/SSIM vs. baseline, or joint-axis error in degrees. -->

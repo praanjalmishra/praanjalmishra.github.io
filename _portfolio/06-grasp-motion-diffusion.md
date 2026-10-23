@@ -4,7 +4,7 @@ excerpt: "Digital Humans course project: conditional latent diffusion for single
 collection: portfolio
 ---
 
-**Digital Humans Course Project, VLG Lab, ETH Zürich** · Feb 2024 – May 2024
+**Digital Humans Course Project, VLG Lab, ETH Zürich** 
 
 * Developed a conditional latent diffusion model that generates human grasping motion in a single stage, demonstrated on motion infilling and object trajectory prediction.
 

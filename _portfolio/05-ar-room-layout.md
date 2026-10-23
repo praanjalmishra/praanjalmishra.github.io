@@ -4,6 +4,6 @@ excerpt: "Mixed Reality course project: real-time room-layout estimation on Magi
 collection: portfolio
 ---
 
-**Mixed Reality Course Project, CVG Lab, ETH Zürich** · Sept 2024 – Dec 2024
+**Mixed Reality Course Project, CVG Lab, ETH Zürich** 
 
 * Built a real-time AR room-layout estimation application on Magic Leap, using spatial mapping to find room boundaries and place objects.
